@@ -4,3 +4,4 @@
  - Adaptable to multiple games
  - Using Pico.css and Vue
  - Designed for adaptability and streamlined factory planning
+ - live at https://syratonin.github.io/Rate-Calculator/
